@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 007"
+  short_description: "Create handwritten everyday observation atlases."
+  default_prompt: "Use $xxd-panel-007 to turn my photo into a clean handwritten observation atlas of source-bound miniatures, close-ups, sections, repeated details, and thin black notes; ask first for modes and copy or locale preferences."
