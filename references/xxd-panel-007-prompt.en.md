@@ -1,8 +1,15 @@
 # XXD Panel 007 · Handwritten Everyday Observation Atlas Core
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Treat the one currently selected photograph as the sole content source. Never borrow objects, observations, composition, palette, or copy from samples, other inputs, or historical outputs.
 
-Generate only the resolved **transformed design frame**: the lower or right design frame in paired modes, or the full canvas in design-only and each wallpaper. Never render another photo panel, seam, border, device mockup, or reserved photographic area inside it.
 
 ## 0. Immutable aesthetic motive
 
@@ -58,7 +65,6 @@ The photographic panel contains no typography. Text-free mode contains no letter
 
 The caller appends the one current mode, exact dimensions, source visibility, and locked copy. Execute only those values.
 
-- For paired output, generate only the transformed frame; the photograph is composed separately. Design-only and wallpaper contain no source photo or seam.
 - Recompose fragments, whitespace, and reading order for every wallpaper aspect. Keep system-UI zones low-information and render no UI or device frame.
 - A linked wallpaper always receives the original source plus the same approved anchor: the source locks identity and content; the anchor locks only fragment grammar, loose reading rhythm, white-paper balance, hand-painted material, colour warmth, scan texture, and handwritten-note behaviour. Never crop mechanically or chain derivatives.
 
