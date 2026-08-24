@@ -42,7 +42,18 @@ Each fragment retains source material, colour, rounded contour, slight perspecti
 
 These samples demonstrate the 007 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 007 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Turn a photograph into an intimate handwritten atlas for looking and reading |
+| **Recognizable signature** | OBJECT-LIKE MINIATURES · CLOSE-UP / SECTION / REPEAT · STAGGERED PAPER · THIN BLACK NOTES |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Journal style” easily collapses into neat icons, standard stickers, repeated labels, and unrelated trinkets where the source photo is only a replaceable theme name.
 
@@ -54,7 +65,7 @@ lock source facts → choose useful whole / close-up / section / repeat / detail
 
 If an unrelated photograph could replace the source without materially changing fragment selection, material cues, handwritten observations, or reading order, the result is not 007.
 
-## The 007 visual contract
+## What makes the finished style recognizable
 
 - **One-source observations:** whole views, close-ups, sections, repeats, and details all belong to the same subject; there is no fixed cell count.
 - **Physical note quality:** small scale, rounded contour, slight perspective, and hand painting preserve material and identity.
