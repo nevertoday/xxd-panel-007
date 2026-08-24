@@ -22,6 +22,26 @@ XXD Panel 007 は、Codex と互換 Agent のための画像生成 Skill です�
 
 各片は元写真の素材、色、丸い輪郭、わずかな遠近、手塗りの痕跡を保ちます。細い黒の手書き語、擬音、注記が図の左右を縫い、見ることと読むことを交互にします。図表やステッカー集ではありません。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
+> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 007 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 007 が必要なのか
 
 一般的な「ミニマル手描き」は、重さのない線画か、主体との関係を持たない空白キャンバスのどちらかへ崩れがちです。
@@ -44,26 +64,6 @@ XXD Panel 007 は、Codex と互換 Agent のための画像生成 Skill です�
 - **文字が骨格：** 細い黒手書きの語、短句、擬音、注記を、ゆるい字間と少し跳ねる基線で結びます。
 - **白紙と温かな色：** 紙が最大面積、黒字が情報、少量の濃色や高彩度色が焦点を担います。
 - **スキャンの手触り：** 軽い柔化、圧縮、縁の不揃い、顔料吸収を残し、重い影や枠を使いません。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
-> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 007 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 

@@ -22,6 +22,26 @@ XXD Panel 007 is an image-generation Skill for Codex and compatible agents. It d
 
 Each fragment retains source material, colour, rounded contour, slight perspective, and hand-painted evidence. Thin black handwritten words, sound cues, and notes weave around the drawings to alternate looking and reading. It sits between a picture-book information page and an object notebook without becoming an icon table or sticker collection.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
+> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 007 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Journal style” easily collapses into neat icons, standard stickers, repeated labels, and unrelated trinkets where the source photo is only a replaceable theme name.
@@ -44,26 +64,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Writing is structure:** thin black words, phrases, sound cues, and notes interweave with relaxed spacing and gently jumping baselines.
 - **White paper and warm colour:** paper dominates, black writing carries information, and sparse dark or saturated accents carry focus.
 - **Scanned touch:** slight softness, natural compression, uneven edges, and pigment absorption replace heavy shadow, borders, or forceful modern type.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
-> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 007 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

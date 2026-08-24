@@ -22,6 +22,26 @@ XXD Panel 007는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 각 조각은 원본의 재료, 색, 둥근 윤곽, 약한 원근과 손으로 칠한 흔적을 보존합니다. 가는 검정 손글씨 단어, 의성어와 주석이 그림 사이를 오가며 보기와 읽기를 연결합니다. 아이콘 표나 스티커 모음이 아닙니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
+> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 007의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 007이 필요한가요
 
 일반적인 ‘미니멀 손그림’은 무게 없는 순수 선화나, 주제와 아무 관계가 없는 빈 캔버스로 쉽게 무너집니다.
@@ -44,26 +64,6 @@ XXD Panel 007는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **글자가 뼈대:** 가는 검정 손글씨 단어, 짧은 문장, 의성어와 주석을 느슨한 간격과 살짝 뛰는 기준선으로 잇습니다.
 - **흰 종이와 따뜻한 색:** 종이가 가장 넓고 검정 글자가 정보를, 소량의 진하거나 선명한 색이 초점을 맡습니다.
 - **스캔 감촉:** 약한 부드러움, 압축, 고르지 않은 가장자리와 안료 흡수를 남기며 무거운 그림자와 테두리를 피합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
-> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 007의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

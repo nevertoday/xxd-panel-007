@@ -22,6 +22,26 @@ XXD Panel 007 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 每个片段保留源图的材料、颜色、圆钝轮廓、轻微透视和手绘痕迹；细黑手写短词、拟声词与注释在图形左右穿插，形成边看边读的亲密节奏。它像绘本信息页与手账实物笔记之间的一页，但不变成图标表或贴纸合集。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
+> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 007 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 007
 
 普通“手账风”很容易退化成整齐图标、标准贴纸、统一标签和无关小物堆砌，源照片只是一个可替换主题名。
@@ -44,26 +64,6 @@ XXD Panel 007 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **文字是骨架：** 细黑手写短词、短句、拟声词和注释左右穿插，字距松弛、基线轻跳。
 - **白纸与暖色：** 白纸占最大面积，黑字承担信息，温暖清洁主体色与少量深色或高饱和色承担焦点。
 - **扫描手感：** 保留轻微柔化、自然压缩、边缘不齐和颜料吸收，不加厚重阴影、边框或强现代排版。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
-> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 007 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 007 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 007 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 007 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 007 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
