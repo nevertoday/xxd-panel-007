@@ -16,16 +16,7 @@
 
 </div>
 
-> OBJECT-LIKE MINIATURES · CLOSE-UP / SECTION / REPEAT · STAGGERED PAPER · THIN BLACK NOTES
-
-XXD Panel 007 is an image-generation Skill for Codex and compatible agents. It decomposes one photograph into small physical-looking whole views, close-ups, sections, repeated pieces, and detail fragments, loosely distributed through the upper and middle of clean white paper.
-
-Each fragment retains source material, colour, rounded contour, slight perspective, and hand-painted evidence. Thin black handwritten words, sound cues, and notes weave around the drawings to alternate looking and reading. It sits between a picture-book information page and an object notebook without becoming an icon table or sticker collection.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
-> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Each fragment retains source material, colour, rounded contour, slight perspecti
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090005645353468277) · 2026-08-19<br>
+> GPT2 x 手账 x 手绘 x 插画 x 拆解 x 美学提示词 x VOL.007
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090005645353468277">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 007 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> OBJECT-LIKE MINIATURES · CLOSE-UP / SECTION / REPEAT · STAGGERED PAPER · THIN BLACK NOTES
+
+XXD Panel 007 is an image-generation Skill for Codex and compatible agents. It decomposes one photograph into small physical-looking whole views, close-ups, sections, repeated pieces, and detail fragments, loosely distributed through the upper and middle of clean white paper.
+
+Each fragment retains source material, colour, rounded contour, slight perspective, and hand-painted evidence. Thin black handwritten words, sound cues, and notes weave around the drawings to alternate looking and reading. It sits between a picture-book information page and an object notebook without becoming an icon table or sticker collection.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 007 right for you?
