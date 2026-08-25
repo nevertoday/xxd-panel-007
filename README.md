@@ -42,6 +42,12 @@ XXD Panel 007 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 每个片段保留源图的材料、颜色、圆钝轮廓、轻微透视和手绘痕迹；细黑手写短词、拟声词与注释在图形左右穿插，形成边看边读的亲密节奏。它像绘本信息页与手账实物笔记之间的一页，但不变成图标表或贴纸合集。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 007 适合你吗？
 
@@ -78,7 +84,7 @@ XXD Panel 007 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 ## 原始提示词优先，而不是二次导演
 
-`references/007-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -225,7 +231,7 @@ $xxd-panel-007
 - [Skill 工作流](SKILL.md)
 - [中文运行适配器](references/xxd-panel-007-prompt.zh-CN.md)
 - [英文运行适配器](references/xxd-panel-007-prompt.en.md)
-- [原始风格提示词](references/007-source.md)
+- [原始风格提示词](references/original-prompt/zh-CN.md)
 
 ## 边界与信任
 
