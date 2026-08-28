@@ -16,28 +16,6 @@
 
 </div>
 
-<!-- xxd-human-intro:start -->
-## Where this Panel fits — and what it solves
-
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
-
-**Panel 007** is suited to work that must retain the source's essential content while pursuing this visual direction: **Turn a photograph into an intimate handwritten atlas for looking and reading**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
-
-### Use it when
-
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
-
-### A simple way to begin
-
-You do not need to review every option first. Send your Agent an image and say:
-
-> Use XXD Panel 007 on this image and recommend the best layout and size first.
-
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
-<!-- xxd-human-intro:end -->
-
 ## Original Samples from X
 
 <table>
@@ -93,6 +71,28 @@ These samples demonstrate the 007 aesthetic motive. Their subjects, composition,
 XXD Panel 007 is an image-generation Skill for Codex and compatible agents. It decomposes one photograph into small physical-looking whole views, close-ups, sections, repeated pieces, and detail fragments, loosely distributed through the upper and middle of clean white paper.
 
 Each fragment retains source material, colour, rounded contour, slight perspective, and hand-painted evidence. Thin black handwritten words, sound cues, and notes weave around the drawings to alternate looking and reading. It sits between a picture-book information page and an object notebook without becoming an icon table or sticker collection.
+
+<!-- xxd-human-intro:start -->
+## Where this Panel fits — and what it solves
+
+When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+
+**Panel 007** is suited to work that must retain the source's essential content while pursuing this visual direction: **Turn a photograph into an intimate handwritten atlas for looking and reading**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+
+### Use it when
+
+- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
+- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
+- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### A simple way to begin
+
+You do not need to review every option first. Send your Agent an image and say:
+
+> Use XXD Panel 007 on this image and recommend the best layout and size first.
+
+Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+<!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
 
