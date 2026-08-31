@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 007
+# 🦁 XXD Panel 007｜손그림 관찰 페이지
 
 ### 사진을 보며 읽는 친밀한 손글씨 생활 관찰 도감으로
 

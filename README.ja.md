@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 007
+# 🦁 XXD Panel 007｜手描き観察ページ
 
 ### 写真を、見ながら読む親密な手書き観察図譜へ
 

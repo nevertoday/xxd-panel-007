@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 007
+# 🦁 XXD Panel 007｜Hand-Drawn Observation Page
 
 ### Turn a photograph into an intimate handwritten atlas for looking and reading
 

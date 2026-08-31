@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 007
+# 🦁 XXD Panel 007｜手绘观察页
 
 ### 把照片拆成边看边读、亲切清爽的手写生活观察图谱
 
