@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="XXD Panel 007 プロジェクトバナー" width="1200">
-</p>
-
 <div align="center">
 
 # 🦁 XXD Panel 007｜手描き観察ページ
@@ -322,7 +318,6 @@ xxd-panel-007/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/（今後のローカル作例用）
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-007-prompt.zh-CN.md + xxd-panel-007-prompt.en.md + 007-source.md
 ```
