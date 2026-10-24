@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-007"
-  short_description: "Create Panel 007 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-007; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "手绘观察页：把照片拆成小图、剖面和细黑手写注释，变成边看边读的生活观察图谱"
+  default_prompt: "Use $xxd-panel-007 to turn my photo into Hand-Drawn Observation Page artwork."
 
 policy:
   allow_implicit_invocation: true

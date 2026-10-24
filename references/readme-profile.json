@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 007｜Hand-Drawn Observation Page: breaks the subject of a photo into a friendly handwritten observation page on clean white paper — small object-like drawings, close-ups, cross-sections, repeated little pieces and detail fragments with rounded outlines, light perspective, hand-painted colour and textures such as crumbs, grain or scorched edges, scattered loosely with offset whitespace and linked by fine black handwritten words, short phrases, sound words and notes, plus a small caption, number or date at the bottom, in warm clean colours from the photo with soft scanned-paper edges. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-007 or asks for handwritten observation pages, picture-book info pages or illustrated food and object notes from a photo.",
+  "short_description": "手绘观察页：把照片拆成小图、剖面和细黑手写注释，变成边看边读的生活观察图谱",
+  "zh-CN": {
+    "name": "手绘观察页",
+    "tagline": "把照片拆成一页小图、剖面和手写短句串起来的生活观察笔记。",
+    "look": "主题会被拆成若干块小小的实物图：局部特写、剖面、重复的小件和细节片段，轮廓圆钝，带一点透视和手绘上色痕迹，局部有颗粒、焦边、碎屑或纹理，像绘本插图和手账贴纸之间的东西。它们松散地分布在大片白纸上，不排成表格，而是靠错位留白和细黑手写的短词、拟声词、注释左右穿插串起来，基线微微跳动；底部可有一行小小的署名式说明、编号或日期。颜色从照片里取，温暖清爽，带扫描纸张的轻微柔化和不齐的边缘。",
+    "traits": [
+      "实物小图",
+      "局部剖面",
+      "重复",
+      "细黑手写",
+      "扫描纸感"
+    ],
+    "good": [
+      "能拆成很多小部件的东西：一桌早餐、切开的水果、一袋面包、几颗饺子",
+      "有材质、味道或声音可以写的对象：一杯咖啡、一盆多肉、一双旧球鞋",
+      "想做成手账页、美食笔记或科普小图的日常照片"
+    ],
+    "poor": [
+      "一大片风景或远景，没有可以拆开细看的部件",
+      "想要一张不带文字的纯插画，手写注释是这一页的骨架",
+      "需要严整表格、信息图或强烈现代排版的需求"
+    ]
+  },
+  "en": {
+    "name": "Hand-Drawn Observation Page",
+    "tagline": "Breaks a photo into a page of small drawings, cross-sections and handwritten notes you look at and read together.",
+    "look": "The subject is taken apart into small object-like drawings: close-ups, cross-sections, repeated little pieces and detail fragments with rounded outlines, light perspective and hand-painted colour, some with grain, scorched edges, crumbs or texture, somewhere between picture-book art and journal stickers. They are scattered loosely across wide white paper, never in a grid, linked by offset whitespace and fine black handwritten words, sound words and notes that weave left and right on a gently bouncing baseline; a small caption, number or date can run along the bottom. Colours come from the photo, warm and fresh, with the slight softness and uneven edges of scanned paper.",
+    "traits": [
+      "Small object drawings",
+      "Cross-sections",
+      "Repetition",
+      "Fine black handwriting",
+      "Scanned paper"
+    ],
+    "good": [
+      "Things that break into many small parts: a breakfast table, sliced fruit, a bag of bread, a few dumplings",
+      "Subjects with texture, taste or sound to write about: a cup of coffee, a potted succulent, worn sneakers",
+      "Everyday photos you want as a journal page, food note or small explainer"
+    ],
+    "poor": [
+      "Wide landscapes or distant views with no parts to look at closely",
+      "Requests for a text-free illustration, since the handwritten notes hold the page together",
+      "Requests for a strict table, infographic or bold modern layout"
+    ]
+  },
+  "ja": {
+    "name": "手描き観察ページ",
+    "tagline": "写真を、小さな絵と断面図と手書きの短い言葉でつないだ生活観察ノートの一ページにします。",
+    "look": "主題をいくつもの小さな実物風の絵に分けます。部分のクローズアップ、断面図、繰り返す小物、細部のかけらを、丸みのある輪郭と軽い遠近、手塗りの色で描き、ところどころに粒子、焦げ目、くず、質感を残します。絵本の挿絵と手帳のステッカーのあいだのような絵です。それらを広い白い紙にゆるく散らし、表にはせず、ずらした余白と細い黒の手書きの短い言葉、擬音語、注記で左右に縫うようにつなぎます。ベースラインは少し跳ねます。下に小さな署名風の説明、番号、日付を入れることもできます。色は写真から取り、温かく清潔で、スキャンした紙のやわらかさと不揃いな縁があります。",
+    "traits": [
+      "実物の小さな絵",
+      "部分の断面",
+      "繰り返し",
+      "細い黒の手書き",
+      "スキャン紙の質感"
+    ],
+    "good": [
+      "小さな部品に分けられるもの：朝食のテーブル、切った果物、袋入りのパン、餃子いくつか",
+      "質感、味、音について書けるもの：一杯のコーヒー、多肉植物の鉢、履き古したスニーカー",
+      "手帳のページ、食べ物ノート、ちょっとした解説図にしたい日常写真"
+    ],
+    "poor": [
+      "分けて見る部分のない広い風景や遠景",
+      "文字のないイラストだけがほしい場合（手書きの注記がこのページの骨格です）",
+      "整然とした表、インフォグラフィック、強い現代的レイアウトを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "손그림 관찰 페이지",
+    "tagline": "사진을 작은 그림, 단면도, 손글씨 짧은 말로 엮은 생활 관찰 노트 한 페이지로 만듭니다.",
+    "look": "주제를 여러 개의 작은 실물 같은 그림으로 나눕니다. 부분 클로즈업, 단면도, 반복되는 작은 물건, 세부 조각을 둥근 윤곽과 가벼운 원근, 손으로 칠한 색으로 그리고, 군데군데 입자, 그을린 가장자리, 부스러기, 질감을 남깁니다. 그림책 삽화와 다이어리 스티커 사이 같은 그림입니다. 이들을 넓은 흰 종이에 느슨하게 흩어 놓되 표로 만들지 않고, 어긋난 여백과 가는 검은 손글씨의 짧은 단어, 의성어, 메모로 좌우를 오가며 잇습니다. 글줄은 살짝 들썩입니다. 아래에 작은 서명식 설명, 번호, 날짜를 넣을 수 있습니다. 색은 사진에서 가져와 따뜻하고 깔끔하며, 스캔한 종이의 부드러움과 고르지 않은 가장자리가 있습니다.",
+    "traits": [
+      "작은 실물 그림",
+      "부분 단면",
+      "반복",
+      "가는 검은 손글씨",
+      "스캔 종이 질감"
+    ],
+    "good": [
+      "작은 부분으로 나눌 수 있는 것: 아침 식탁, 자른 과일, 빵 한 봉지, 만두 몇 개",
+      "질감, 맛, 소리를 적을 거리가 있는 대상: 커피 한 잔, 다육 화분, 낡은 운동화",
+      "다이어리 페이지, 음식 노트, 작은 설명 그림으로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "나눠 볼 부분이 없는 넓은 풍경이나 원경",
+      "글자 없는 그림만 원하는 경우(손글씨 메모가 이 페이지의 뼈대입니다)",
+      "반듯한 표, 인포그래픽, 강한 현대적 레이아웃을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "صفحة الملاحظة المرسومة يدويًا",
+    "tagline": "يفكّك الصورة إلى صفحة ملاحظات من رسوم صغيرة ومقاطع عرضية وعبارات بخط اليد.",
+    "look": "يُقسَّم الموضوع إلى رسوم صغيرة تشبه الأشياء الحقيقية: لقطات قريبة ومقاطع عرضية وقطع صغيرة متكررة وشذرات من التفاصيل، بحواف مستديرة ومنظور خفيف وتلوين يدوي، وفي بعضها حبيبات أو حواف محروقة أو فتات أو ملمس، في منزلة بين رسوم الكتب المصوّرة وملصقات الدفاتر. تتوزع بحرية على ورق أبيض واسع من دون جدول، وتربطها فراغات متفاوتة وكلمات قصيرة وأصوات وملاحظات بخط يد أسود رفيع تتنقل يميناً ويساراً على سطر يتمايل قليلاً، ويمكن أن يمتد في الأسفل تعليق صغير أو رقم أو تاريخ. تُؤخذ الألوان من الصورة، دافئة ونظيفة، مع نعومة الورق الممسوح ضوئياً وحوافه غير المستوية.",
+    "traits": [
+      "رسوم صغيرة لأشياء",
+      "مقاطع عرضية",
+      "تكرار",
+      "خط يد أسود رفيع",
+      "ملمس الورق الممسوح"
+    ],
+    "good": [
+      "أشياء تتفكك إلى أجزاء صغيرة كثيرة: مائدة فطور، فاكهة مقطّعة، كيس خبز، بضع فطائر محشوة",
+      "أشياء لها ملمس أو طعم أو صوت يُكتب عنه: فنجان قهوة، أصيص نبات عصاري، حذاء رياضي قديم",
+      "صور يومية تريدها صفحة دفتر أو ملاحظة طعام أو رسماً توضيحياً صغيراً"
+    ],
+    "poor": [
+      "مناظر طبيعية واسعة أو بعيدة ليس فيها أجزاء تُتأمّل عن قرب",
+      "طلب رسم بلا نص، فالملاحظات المكتوبة باليد هي هيكل الصفحة",
+      "طلب جدول صارم أو إنفوغرافيك أو تنسيق حديث قوي"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-007
-description: "Create XXD Panel 007 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-007 or requests the exact Panel 007 style."
+description: "XXD Panel 007｜Hand-Drawn Observation Page: breaks the subject of a photo into a friendly handwritten observation page on clean white paper — small object-like drawings, close-ups, cross-sections, repeated little pieces and detail fragments with rounded outlines, light perspective, hand-painted colour and textures such as crumbs, grain or scorched edges, scattered loosely with offset whitespace and linked by fine black handwritten words, short phrases, sound words and notes, plus a small caption, number or date at the bottom, in warm clean colours from the photo with soft scanned-paper edges. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-007 or asks for handwritten observation pages, picture-book info pages or illustrated food and object notes from a photo."
 ---
 
 # XXD Panel 007
